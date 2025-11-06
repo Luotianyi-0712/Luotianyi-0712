@@ -51,4 +51,4 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luotianyi-0712)
 
-<a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=洛洛" >
+<a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=沿着星河轨迹，踏遍人间春秋" >
