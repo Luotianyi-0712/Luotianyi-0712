@@ -1,5 +1,7 @@
 <!-- 个人资料 -->
-## 我
+
+## 关于我
+
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
@@ -16,14 +18,21 @@
 - 💞️ Minecraft骨灰级玩家
 - 📫 擅长唱，跳，rap, 篮球(
 
-
-![Visitor Count](https://count.getloli.com/@:Luotianyi-0712)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luotianyi-0712/Luotianyi-0712/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luotianyi-0712/Luotianyi-0712/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Luotianyi-0712/Luotianyi-0712/output/github-contribution-grid-snake.svg">
 </picture>
+
+<p align="center">
+  <img src="https://count.getloli.com/@:Luotianyi-0712" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=沿着星河轨迹，踏遍人间春秋" />
+</p>
+
+
 
 ## 技术栈🛠️
 <p align="left"> 
@@ -51,4 +60,3 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luotianyi-0712)
 
-<a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=沿着星河轨迹，踏遍人间春秋" >
