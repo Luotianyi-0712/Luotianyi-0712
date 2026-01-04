@@ -53,8 +53,8 @@
 </p>
 
 <p align="center">
-  <img src="https://my-github-stats-lyart.vercel.app/api/stats?username=Luotianyi-0712&show_icons=true&hide_rank=true&svg_height=190" alt="GitHub Stats" height="160" />
-  <img src="https://my-github-stats-lyart.vercel.app/api/top-langs?username=Luotianyi-0712&langs_count=8&hide=html,css&layout=compact&svg_height=190" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Luotianyi-0712&show_icons=true&hide_rank=true&svg_height=190" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Luotianyi-0712&langs_count=8&hide=html,css&layout=compact&svg_height=190" alt="Top Languages" height="160" />
 </p>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luotianyi-0712)
